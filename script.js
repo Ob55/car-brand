@@ -64,6 +64,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     modelElement.textContent = model.nome;
                     carBrandsContainer.appendChild(modelElement);
                 });
+                
             }
         })
         .catch(function (error) {

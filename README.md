@@ -14,7 +14,7 @@ Car Web is a website that showcases a variety of cars, provides information abou
 - [License](#license)
 - [Contact](#contact)
 
-## Features
+## Features.
 
 - Responsive design for a seamless user experience on various devices.
 - Sections for Home, Cars, About Us, Spare Parts, Blog, and Contact.

@@ -34,4 +34,4 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/car-web.git
+   git clone https://github.com/Ob55/car-brand

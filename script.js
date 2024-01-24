@@ -6,6 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
         searchBox.classList.toggle("active");
     });
 
+    
     const menuIcon = document.getElementById("menu-icon");
     const navbar = document.querySelector(".navbar");
 

@@ -153,6 +153,7 @@ body {
 .home-text span{
   color: var(--main-color);
 }
+
   .btn{
     padding: 10 22 0;
     background: var(--main-color);
